@@ -1,0 +1,13 @@
+echoing a string to text file
+blue
+green
+yellow
+blue
+blue
+greeen
+black
+gold
+yellow
+silver
+purple
+blue
